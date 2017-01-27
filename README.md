@@ -9,7 +9,9 @@ The code in RScript/generate_experiments_X.R is generating bash-files to run on 
 To generate random datasets based on PUBMED, NIPS and ENRON see the code in:
 RScript/generate_data.R
 
-In this repository results used to produce the graphs can be found in Rscript/generate_figures
+In this repository results used to produce the graphs can be found in Rscript/generate_figures.R
+
+The results are included in the results.zip file that need to be extracted to produce the results.
 
 If you have any questions, feel free to send an e-mail to mans.magnusson@liu.se.
 

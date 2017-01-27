@@ -1,0 +1,16 @@
+Package: pcplda
+Type: Package
+Title: Help functions in R for analysis of PCPLDA.
+Version: 0.2
+Date: 2014-12-14
+Author: Mans Magnusson, Leif Jonsson
+Maintainer: Mans Magnusson <mans.magnusson@liu.se>
+Description: Functions used in the project partially collapsed LDA.
+License: GPL
+Depends:
+    stringr,
+    ggplot2,
+    coda,
+    testthat,
+    tm
+RoxygenNote: 5.0.1
